@@ -1,0 +1,11 @@
+﻿  PR11.1.cpp
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,24): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,37): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,50): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,63): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,76): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,89): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,102): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,115): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Student\PR11.1\PR11.1\PR11.1.cpp(63,128): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  PR11.1.vcxproj -> C:\Student\PR11.1\x64\Debug\PR11.1.exe
